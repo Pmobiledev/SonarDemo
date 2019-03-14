@@ -5,4 +5,6 @@ This project will help to integrate the SonarQube with the iOS project.
 
 [[Demostration Video]](https://youtu.be/xC_sy1hL32M)
 
+Please find more details on 
+https://medium.com/@pranay.urkude/sonarqube-integration-with-ios-b76df8405014
 
