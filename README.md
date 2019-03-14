@@ -1,2 +1,6 @@
 # SonarDemo
-This project will help to integrate the SonarQube with the iOS project
+This project will help to integrate the SonarQube with the iOS project.
+
+![](https://github.com/Pmobiledev/SonarDemo/blob/master/sonar_project_logo.png)
+
+
