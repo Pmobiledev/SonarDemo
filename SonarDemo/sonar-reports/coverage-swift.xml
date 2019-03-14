@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+<coverage line-rate="0.4400000000000000" branch-rate="1.0000000000000000" lines-covered="11" lines-valid="25" branches-covered="0" branches-valid="0" complexity="0.0" timestamp="1552473405" version="Slather 2.4.6">
+  <sources>
+    <source>/Users/pranay/Desktop/SonarDemo</source>
+  </sources>
+  <packages>
+    <package name="SonarDemo" line-rate="0.4400000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+      <classes>
+        <class name="AppDelegate" filename="SonarDemo/AppDelegate.swift" line-rate="0.3333333333333333" branch-rate="1.0000000000000000" complexity="0.0">
+          <methods/>
+          <lines>
+            <line number="17" branch="false" hits="2"/>
+            <line number="18" branch="false" hits="2"/>
+            <line number="19" branch="false" hits="2"/>
+            <line number="20" branch="false" hits="2"/>
+            <line number="22" branch="false" hits="0"/>
+            <line number="23" branch="false" hits="0"/>
+            <line number="24" branch="false" hits="0"/>
+            <line number="25" branch="false" hits="0"/>
+            <line number="27" branch="false" hits="0"/>
+            <line number="28" branch="false" hits="0"/>
+            <line number="29" branch="false" hits="0"/>
+            <line number="30" branch="false" hits="0"/>
+            <line number="32" branch="false" hits="0"/>
+            <line number="33" branch="false" hits="0"/>
+            <line number="34" branch="false" hits="0"/>
+            <line number="36" branch="false" hits="2"/>
+            <line number="37" branch="false" hits="2"/>
+            <line number="38" branch="false" hits="2"/>
+            <line number="40" branch="false" hits="0"/>
+            <line number="41" branch="false" hits="0"/>
+            <line number="42" branch="false" hits="0"/>
+          </lines>
+        </class>
+        <class name="ViewController" filename="SonarDemo/ViewController.swift" line-rate="1.0000000000000000" branch-rate="1.0000000000000000" complexity="0.0">
+          <methods/>
+          <lines>
+            <line number="13" branch="false" hits="2"/>
+            <line number="14" branch="false" hits="2"/>
+            <line number="15" branch="false" hits="2"/>
+            <line number="16" branch="false" hits="2"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>

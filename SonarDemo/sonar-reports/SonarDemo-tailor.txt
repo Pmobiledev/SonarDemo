@@ -1,0 +1,29 @@
+Analyzing 4 files:
+....
+
+********** ./SonarDemo/AppDelegate.swift **********
+/Users/pranay/Desktop/SonarDemo/SonarDemo/AppDelegate.swift:17:101: warning: [max-line-length] Line is over maximum character limit (143/100)
+/Users/pranay/Desktop/SonarDemo/SonarDemo/AppDelegate.swift:23:101: warning: [max-line-length] Line is over maximum character limit (281/100)
+/Users/pranay/Desktop/SonarDemo/SonarDemo/AppDelegate.swift:24:101: warning: [max-line-length] Line is over maximum character limit (155/100)
+/Users/pranay/Desktop/SonarDemo/SonarDemo/AppDelegate.swift:28:101: warning: [max-line-length] Line is over maximum character limit (214/100)
+/Users/pranay/Desktop/SonarDemo/SonarDemo/AppDelegate.swift:29:101: warning: [max-line-length] Line is over maximum character limit (137/100)
+/Users/pranay/Desktop/SonarDemo/SonarDemo/AppDelegate.swift:33:101: warning: [max-line-length] Line is over maximum character limit (151/100)
+/Users/pranay/Desktop/SonarDemo/SonarDemo/AppDelegate.swift:37:101: warning: [max-line-length] Line is over maximum character limit (190/100)
+/Users/pranay/Desktop/SonarDemo/SonarDemo/AppDelegate.swift:41:101: warning: [max-line-length] Line is over maximum character limit (124/100)
+/Users/pranay/Desktop/SonarDemo/SonarDemo/AppDelegate.swift:46: warning: [terminating-newline] File should terminate with exactly one newline character ('\n')
+
+********** ./SonarDemo/ViewController.swift **********
+/Users/pranay/Desktop/SonarDemo/SonarDemo/ViewController.swift:20: warning: [terminating-newline] File should terminate with exactly one newline character ('\n')
+
+********** ./SonarDemoTests/SonarDemoTests.swift **********
+/Users/pranay/Desktop/SonarDemo/SonarDemoTests/SonarDemoTests.swift:15:101: warning: [max-line-length] Line is over maximum character limit (109/100)
+/Users/pranay/Desktop/SonarDemo/SonarDemoTests/SonarDemoTests.swift:19:101: warning: [max-line-length] Line is over maximum character limit (111/100)
+
+********** ./SonarDemoUITests/SonarDemoUITests.swift **********
+/Users/pranay/Desktop/SonarDemo/SonarDemoUITests/SonarDemoUITests.swift:14:101: warning: [max-line-length] Line is over maximum character limit (109/100)
+/Users/pranay/Desktop/SonarDemo/SonarDemoUITests/SonarDemoUITests.swift:19:101: warning: [max-line-length] Line is over maximum character limit (131/100)
+/Users/pranay/Desktop/SonarDemo/SonarDemoUITests/SonarDemoUITests.swift:22:101: warning: [max-line-length] Line is over maximum character limit (182/100)
+/Users/pranay/Desktop/SonarDemo/SonarDemoUITests/SonarDemoUITests.swift:26:101: warning: [max-line-length] Line is over maximum character limit (111/100)
+
+Analyzed 4 files, skipped 0 files, and detected 16 violations (0 errors, 16 warnings).
+
